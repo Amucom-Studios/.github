@@ -1,4 +1,4 @@
-![header](https://github.com/NiceKype/NiceKype/blob/main/github-header.png?raw=true "header")
+![header](https://github.com/Amucom-Studios/.github/blob/main/profile/github-header.png?raw=true "header")
 
 <div align="center">
 <a href="https://amucom-studios.de/youtube" target="_blank">
